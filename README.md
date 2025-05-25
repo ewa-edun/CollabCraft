@@ -87,15 +87,15 @@ npm install
 Create a `.env` file in both the root and frontend folders with your Firebase and Gemini credentials:
 
 ```env
-REACT_APP_GEMINI_API_KEY=your-key-here
-REACT_APP_FIREBASE_API_KEY=your-firebase-key
-REACT_APP_FIREBASE_PROJECT_ID=your-project-id
+VITE_GEMINI_API_KEY=your-key-here
+VITE_FIREBASE_API_KEY=your-firebase-key
+VITE_FIREBASE_PROJECT_ID=your-project-id
 ```
 
 ### 4. Run the frontend locally
 
 ```bash
-npm run de
+npm run dev
 ```
 
 ### 5. Agent Development Kit
@@ -106,8 +106,6 @@ npm run de
 * Trigger agents in sequence via the backend or orchestrator script
 
 ---
-
-## 👥 Team & Roles
 
 ## 👥 Team & Roles
 
