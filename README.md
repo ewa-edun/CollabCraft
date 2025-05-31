@@ -15,11 +15,7 @@ Whether you're a first-time founder or just brainstorming for fun, CollabCraft g
 ## ✨ Demo & Screenshots
 
 > 📹 **Live Demo:** Coming soon  
-> 🖼️ **Screenshots:** (placeholders — will update with actual images)
-- `./assets/screenshot-home.png`
-- `./assets/screenshot-dashboard.png`
-- `./assets/screenshot-pitch.png`
-
+> 🖼️ **Screenshots:** (will update with actual images)
 ---
 
 ## 🧠 Key Features (MVP)
