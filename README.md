@@ -67,8 +67,8 @@ Each agent takes input from the previous one and passes structured output to the
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-org/collabcraft.git
-cd collabcraft
+git clone https://github.com/ewa-edun/CollabCraft.git
+cd CollabCraft
 ````
 
 ### 2. Install frontend dependencies
@@ -76,6 +76,7 @@ cd collabcraft
 ```bash
 cd frontend
 npm install
+npm install react-router-dom
 ```
 
 ### 3. Set up environment variables
